@@ -1,0 +1,34 @@
+[
+  {
+    "package": "cregg",
+    "oncran": true
+  },
+  {
+    "package": "csvy",
+    "oncran": true
+  },
+  {
+    "package": "GK2011",
+    "oncran": true
+  },
+  {
+    "package": "margins",
+    "oncran": true
+  },
+  {
+    "package": "prediction",
+    "oncran": true
+  },
+  {
+    "package": "rio",
+    "oncran": true
+  },
+  {
+    "package": "UNF",
+    "oncran": true
+  },
+  {
+    "package": "webuse",
+    "oncran": true
+  }
+]
