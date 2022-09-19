@@ -18,11 +18,6 @@
 	url = https://github.com/leeper/gk2011
 	shallow = true
 	registered = true
-[submodule "margins"]
-	path = margins
-	url = https://github.com/leeper/margins
-	shallow = true
-	registered = true
 [submodule "prediction"]
 	path = prediction
 	url = https://github.com/leeper/prediction

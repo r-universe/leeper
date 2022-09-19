@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "margins",
-    "oncran": true
-  },
-  {
     "package": "prediction",
     "oncran": true
   },
