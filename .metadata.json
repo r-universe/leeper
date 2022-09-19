@@ -12,15 +12,15 @@
     "oncran": true
   },
   {
+    "package": "margins",
+    "oncran": true
+  },
+  {
     "package": "prediction",
     "oncran": true
   },
   {
     "package": "rio",
-    "oncran": true
-  },
-  {
-    "package": "UNF",
     "oncran": true
   },
   {
