@@ -33,6 +33,11 @@
 	url = https://github.com/leeper/rio
 	shallow = true
 	registered = true
+[submodule "sparktex"]
+	path = sparktex
+	url = https://github.com/leeper/sparktex
+	shallow = true
+	registered = true
 [submodule "webuse"]
 	path = webuse
 	url = https://github.com/leeper/webuse

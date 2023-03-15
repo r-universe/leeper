@@ -24,6 +24,10 @@
     "oncran": true
   },
   {
+    "package": "sparktex",
+    "oncran": true
+  },
+  {
     "package": "webuse",
     "oncran": true
   }
