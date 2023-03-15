@@ -8,14 +8,14 @@
 	url = https://github.com/leeper/cregg
 	shallow = true
 	registered = true
-[submodule "prediction"]
-	path = prediction
-	url = https://github.com/leeper/prediction
-	shallow = true
-	registered = true
 [submodule "csvy"]
 	path = csvy
 	url = https://github.com/leeper/csvy
+	shallow = true
+	registered = true
+[submodule "GK2011"]
+	path = GK2011
+	url = https://github.com/leeper/gk2011
 	shallow = true
 	registered = true
 [submodule "margins"]
@@ -23,14 +23,14 @@
 	url = https://github.com/leeper/margins
 	shallow = true
 	registered = true
+[submodule "prediction"]
+	path = prediction
+	url = https://github.com/leeper/prediction
+	shallow = true
+	registered = true
 [submodule "rio"]
 	path = rio
 	url = https://github.com/leeper/rio
-	shallow = true
-	registered = true
-[submodule "GK2011"]
-	path = GK2011
-	url = https://github.com/leeper/gk2011
 	shallow = true
 	registered = true
 [submodule "webuse"]
