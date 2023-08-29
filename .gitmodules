@@ -17,9 +17,6 @@
 [submodule "prediction"]
 	path = prediction
 	url = https://github.com/leeper/prediction
-[submodule "rio"]
-	path = rio
-	url = https://github.com/leeper/rio
 [submodule "sparktex"]
 	path = sparktex
 	url = https://github.com/leeper/sparktex
