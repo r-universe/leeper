@@ -11,9 +11,6 @@
 [submodule "csvy"]
 	path = csvy
 	url = https://github.com/leeper/csvy
-[submodule "margins"]
-	path = margins
-	url = https://github.com/leeper/margins
 [submodule "prediction"]
 	path = prediction
 	url = https://github.com/leeper/prediction
