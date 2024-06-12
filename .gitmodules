@@ -11,9 +11,6 @@
 [submodule "csvy"]
 	path = csvy
 	url = https://github.com/leeper/csvy
-[submodule "prediction"]
-	path = prediction
-	url = https://github.com/leeper/prediction
 [submodule "sparktex"]
 	path = sparktex
 	url = https://github.com/leeper/sparktex
