@@ -5,9 +5,6 @@
 [submodule "GK2011"]
 	path = GK2011
 	url = https://github.com/leeper/gk2011
-[submodule "cregg"]
-	path = cregg
-	url = https://github.com/leeper/cregg
 [submodule "csvy"]
 	path = csvy
 	url = https://github.com/leeper/csvy
